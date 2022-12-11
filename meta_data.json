@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "productivity",
+        "2": "social network",
+        "3": "ecommerce"
+    },
+    "description": "Plugin that generates a snackbar by starting events",
+    "image": "//s3.amazonaws.com/appforest_uf/f1643997173196x401024361694610300/logo.png",
+    "license": "open_source",
+    "link": "https://github.com/jaelson001/snackbar-js",
+    "name": "Snackbar.js",
+    "plugin_instructions": "after installing, only add an plugin action \"show snackbar\" to the result of a requestand parse the message to the field on properties"
+}

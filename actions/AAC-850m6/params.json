@@ -1,0 +1,26 @@
+{
+    "category": "plugins",
+    "display": "show Snackbar",
+    "fields": {
+        "AAD": {
+            "caption": "level",
+            "default_val": "",
+            "doc": "if empty the bar will be sowed in dark color",
+            "editor": "DynamicValue",
+            "name": "level",
+            "optional": true,
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "message",
+            "default_val": "Message here",
+            "doc": "after max lenght, aplied css ellipsis to text",
+            "editor": "DynamicValue",
+            "name": "message",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}
